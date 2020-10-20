@@ -3,6 +3,7 @@ git status
 git add . or git add <filename>
 git commit -m <any message>
 git remote add origin <url of repository from git>  ==========> adding reposiroty to the local
-git push origin master ==========> used to push the files to the repository 
-git pull origin master ===========> used to take a pull of the repository in order to keep local repo up to date same as remote or origin master
-git clone <url of repo> ==========> in order to take clone of complete repo
+git push origin master ==========> used to push the fies to the repository 
+git branch <branch name>  =========> used to create new branch
+git branch =========> to know all the availabe branches in that repo
+git branch -d <filename> to delete the brnach
