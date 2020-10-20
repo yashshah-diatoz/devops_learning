@@ -1,1 +1,6 @@
-third file
+git init
+git status
+git add . or git add <filename>
+git commit -m <any message>
+git remote add origin <url of repository from git>  ==========> adding reposiroty to the local
+git push origin master ==========> used to push the fies to the repository 
